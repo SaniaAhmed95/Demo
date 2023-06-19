@@ -1,4 +1,5 @@
 This article explains how to download an image using Google. 
+IMPORTANT: Ensure your internet is working for Google to work.
 1. Open www.google.com
 2. Search for the required image using a search term. 
 3. Click on the desired image. 
