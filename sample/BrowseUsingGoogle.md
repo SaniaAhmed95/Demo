@@ -4,3 +4,4 @@ This article explains how to browse using Google search engine.
 3. Press Enter key on the keyboard. 
 
 Google provides content, images, videos, locations, and much more for the end-user to browse. 
+Checkout www.google.com/documents for more information. 
